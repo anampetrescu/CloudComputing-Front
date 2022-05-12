@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import { LANGUAGES_ARRAY, DEFAULT_MAIL } from '../utils/constants';
+import { LANGUAGES_ARRAY, DEFAULT_MAIL } from './javascript/utils/constants';
 
 function MessagesSubmit() {
 

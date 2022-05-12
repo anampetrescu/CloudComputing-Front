@@ -7,7 +7,6 @@ import MessagesSubmit from './MessagesSubmit';
 function MainPage() {
     return (
         <div id="MainPage">
-            {/* <img src={localStorage.getItem("profilePic")} /> */}
             <Header />
                 <div className="flex max-w-7xl m-auto px-14 py-24">
                     <div className='w-1/2 pr-5'>

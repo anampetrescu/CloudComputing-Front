@@ -1,6 +1,6 @@
 import React from 'react';
 import "./SignIn.css";
-import { signInWithGoogle } from '../../Firebase'
+import { signInWithGoogle } from './Firebase'
 
 export const SignIn = ( { setUser } ) => {
 
